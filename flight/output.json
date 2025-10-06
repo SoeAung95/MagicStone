@@ -1,0 +1,19 @@
+{
+  "user": "Magic",
+  "status": "sovereign",
+  "region": "Mandalay",
+  "flight_id": "MAGIC-001",
+  "aircraft": "A320",
+  "timestamp": "2025-10-07T02:16:52.680665",
+  "position": {
+    "latitude": 37.619,
+    "longitude": -122.374,
+    "altitude": 0.0,
+    "speed": 0.0,
+    "heading": 0.0,
+    "vertical_speed": 0.0,
+    "pitch": 0.0,
+    "bank": 0.0,
+    "yaw": 0.0
+  }
+}
