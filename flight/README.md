@@ -6,3 +6,5 @@ Aircraft: A320
 Region: Mandalay
 Status: sovereign
 Position: Lat 37.619, Lon -122.374, Alt 0.0
+![Status](https://img.shields.io/badge/flight-MAGIC--001-green)
+\![Status](https://img.shields.io/badge/flight-MAGIC--001-green)
